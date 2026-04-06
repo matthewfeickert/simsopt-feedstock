@@ -41,7 +41,7 @@ requirements:
       then: tomli
     - pip
     - libboost-devel
-    - eigen 3.*
+    - eigen-abi-devel
     - fmt
     - xsimd
     - xtensor-python
