@@ -265,4 +265,5 @@ Feedstock Maintainers
 =====================
 
 * [@matthewfeickert](https://github.com/matthewfeickert/)
+* [@mbkumar](https://github.com/mbkumar/)
 
