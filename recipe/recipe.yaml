@@ -14,7 +14,7 @@ source:
     - use-cmake-find-package-for-dependencies.patch
 
 build:
-  number: 0
+  number: 1
   skip:
     - win
   script:
